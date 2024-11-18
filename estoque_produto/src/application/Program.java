@@ -24,6 +24,22 @@ public class Program {
 		
 		System.out.println("Product data: " + product.toString());
 		
+		System.out.println();
+		System.out.print("Enter the number of products to be added in sotck:  ");
+		int quantity = sc.nextInt();
+		product.addProducts(quantity);
+		
+		System.out.println();
+		System.out.println("Update data: " + product.toString());
+		
+		System.out.println();
+		System.out.print("Enter the number of products to be removed from sotck:  ");
+		quantity = sc.nextInt();
+		product.removeProducts(quantity);
+		
+		System.out.println();
+		System.out.println("Update data: " + product.toString());
+		
 		sc.close();
 	}
 
