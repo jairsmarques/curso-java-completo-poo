@@ -1,2 +1,3 @@
-2026/03/10-09:28:34.728 2a18 Creating DB C:\curso-java-completo-poo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2026/03/10-09:28:35.231 2a18 Reusing MANIFEST C:\curso-java-completo-poo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/11-12:33:34.928 3034 Reusing MANIFEST C:\curso-java-completo-poo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/11-12:33:34.987 3034 Recovering log #3
+2026/03/11-12:33:34.992 3034 Reusing old log C:\curso-java-completo-poo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
