@@ -4844,3 +4844,492 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:49:06.597
 !MESSAGE 08:38:56.389 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-poo/6.1_introducao_a_poo_segundo_exemplo/bin/application/Program.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:36.686
+!MESSAGE 08:53:36.686 [pool-3-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:37.186
+!MESSAGE 08:53:37.182 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:37.232
+!MESSAGE 08:53:37.232 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:38.114
+!MESSAGE 08:53:37.233 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:38.273
+!MESSAGE 08:53:38.223 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:38.775
+!MESSAGE 08:53:38.775 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:38.778
+!MESSAGE 08:53:38.778 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:39.880
+!MESSAGE 08:53:39.879 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:39.883
+!MESSAGE 08:53:39.882 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:40.387
+!MESSAGE 08:53:40.386 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:40.399
+!MESSAGE 08:53:40.398 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:40.580
+!MESSAGE 08:53:40.577 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:40.703
+!MESSAGE 08:53:40.702 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 6
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:41.207
+!MESSAGE 08:53:41.158 [pool-3-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:41.209
+!MESSAGE 08:53:41.208 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:41.363
+!MESSAGE 08:53:41.361 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:41.882
+!MESSAGE 08:53:41.867 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:43.705
+!MESSAGE 08:53:43.704 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:43.849
+!MESSAGE 08:53:43.848 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 9
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:43.851
+!MESSAGE 08:53:43.849 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:44.123
+!MESSAGE 08:53:44.121 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:44.323
+!MESSAGE 08:53:44.321 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:44.326
+!MESSAGE 08:53:44.325 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:44.373
+!MESSAGE 08:53:44.348 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:50.891
+!MESSAGE 08:53:44.829 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:50.892
+!MESSAGE 08:53:44.837 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java done in 9ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:50.952
+!MESSAGE 08:53:50.894 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:51.017
+!MESSAGE 08:53:51.016 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:53.309
+!MESSAGE 08:53:51.343 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:53.311
+!MESSAGE 08:53:52.225 [pool-3-thread-24] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:53.815
+!MESSAGE 08:53:53.813 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:53.826
+!MESSAGE 08:53:53.825 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:53.899
+!MESSAGE 08:53:53.897 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:54.403
+!MESSAGE 08:53:54.401 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:53:54.412
+!MESSAGE 08:53:54.411 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:03.536
+!MESSAGE 08:54:03.536 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:04.039
+!MESSAGE 08:54:04.038 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:04.044
+!MESSAGE 08:54:04.043 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:05.742
+!MESSAGE 08:54:05.739 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.247
+!MESSAGE 08:54:06.245 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.254
+!MESSAGE 08:54:06.248 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.264
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.267
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.269
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.271
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.272
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.273
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.274
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.275
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.276
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.276
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.277
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.277
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.278
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.278
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.279
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.281
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.281
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.282
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.282
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.283
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.283
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.284
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.284
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.285
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.285
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.286
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.286
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.770
+!MESSAGE 08:54:06.769 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:06.779
+!MESSAGE 08:54:06.777 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:10.488
+!MESSAGE 08:54:10.487 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:10.990
+!MESSAGE 08:54:10.990 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:10.994
+!MESSAGE 08:54:10.993 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:13.413
+!MESSAGE 08:54:13.411 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:13.918
+!MESSAGE 08:54:13.916 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:13.929
+!MESSAGE 08:54:13.928 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:14.919
+!MESSAGE 08:54:14.918 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 20
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:14.920
+!MESSAGE 08:54:14.920 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:14.921
+!MESSAGE 08:54:14.921 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:15.423
+!MESSAGE 08:54:15.096 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:15.426
+!MESSAGE 08:54:15.426 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:16.915
+!MESSAGE 08:54:16.912 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:17.420
+!MESSAGE 08:54:17.418 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:17.427
+!MESSAGE 08:54:17.426 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:55.958
+!MESSAGE 08:54:55.953 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/bin/util/Calculator.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:56.188
+!MESSAGE 08:54:56.187 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:56.277
+!MESSAGE 08:54:56.277 [pool-3-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:56.689
+!MESSAGE 08:54:56.454 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:54:56.693
+!MESSAGE 08:54:56.693 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:10.828
+!MESSAGE 08:55:10.827 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:11.259
+!MESSAGE 08:55:11.258 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 3
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:13.152
+!MESSAGE 08:55:11.762 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:13.153
+!MESSAGE 08:55:11.773 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java done in 11ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:13.655
+!MESSAGE 08:55:13.655 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:13.660
+!MESSAGE 08:55:13.659 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:15.114
+!MESSAGE 08:55:15.114 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:15.115
+!MESSAGE 08:55:15.114 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:15.116
+!MESSAGE 08:55:15.115 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 6
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:18.708
+!MESSAGE 08:55:15.618 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:18.708
+!MESSAGE 08:55:15.621 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:41.554
+!MESSAGE 08:55:20.385 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:41.768
+!MESSAGE 08:55:41.767 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 23
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:42.273
+!MESSAGE 08:55:42.272 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:42.282
+!MESSAGE 08:55:42.281 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:42.620
+!MESSAGE 08:55:42.618 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:43.124
+!MESSAGE 08:55:43.123 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:43.144
+!MESSAGE 08:55:43.143 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:44.241
+!MESSAGE 08:55:44.240 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:44.745
+!MESSAGE 08:55:44.743 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:44.762
+!MESSAGE 08:55:44.761 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:50.721
+!MESSAGE 08:55:50.720 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:51.225
+!MESSAGE 08:55:51.224 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:51.246
+!MESSAGE 08:55:51.245 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:51.688
+!MESSAGE 08:55:51.687 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:52.193
+!MESSAGE 08:55:52.191 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:52.209
+!MESSAGE 08:55:52.207 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:54.560
+!MESSAGE 08:55:54.560 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:55.066
+!MESSAGE 08:55:55.065 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:55:55.082
+!MESSAGE 08:55:55.081 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:00.688
+!MESSAGE 08:56:00.687 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:00.692
+!MESSAGE 08:56:00.689 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 30
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:00.694
+!MESSAGE 08:56:00.692 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:00.697
+!MESSAGE 08:56:00.693 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 31
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:00.698
+!MESSAGE 08:56:00.693 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:00.785
+!MESSAGE 08:56:00.785 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:01.203
+!MESSAGE 08:56:01.201 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:01.225
+!MESSAGE 08:56:01.223 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:23.426
+!MESSAGE 08:56:23.423 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:23.929
+!MESSAGE 08:56:23.928 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:23.951
+!MESSAGE 08:56:23.949 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:31.063
+!MESSAGE 08:56:31.062 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:31.569
+!MESSAGE 08:56:31.120 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:31.591
+!MESSAGE 08:56:31.589 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:34.777
+!MESSAGE 08:56:34.776 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:35.279
+!MESSAGE 08:56:35.278 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:35.291
+!MESSAGE 08:56:35.290 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:35.665
+!MESSAGE 08:56:35.664 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:36.166
+!MESSAGE 08:56:36.166 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:36.173
+!MESSAGE 08:56:36.173 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:36.408
+!MESSAGE 08:56:36.407 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:36.913
+!MESSAGE 08:56:36.911 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:36.932
+!MESSAGE 08:56:36.931 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.907
+!MESSAGE 08:56:38.905 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.911
+!MESSAGE 08:56:38.910 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 5ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.914
+!MESSAGE 08:56:38.913 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 42
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.917
+!MESSAGE 08:56:38.915 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.920
+!MESSAGE 08:56:38.919 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 6ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.922
+!MESSAGE 08:56:38.921 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 43
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.927
+!MESSAGE 08:56:38.925 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.930
+!MESSAGE 08:56:38.928 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 7ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.931
+!MESSAGE 08:56:38.929 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.932
+!MESSAGE 08:56:38.930 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.933
+!MESSAGE 08:56:38.931 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 45
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.933
+!MESSAGE 08:56:38.931 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.934
+!MESSAGE 08:56:38.933 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.935
+!MESSAGE 08:56:38.933 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 46
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:38.936
+!MESSAGE 08:56:38.933 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:39.439
+!MESSAGE 08:56:39.437 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:39.458
+!MESSAGE 08:56:39.457 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:56:39.954
+!MESSAGE 08:56:39.948 [pool-3-thread-24] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:57:30.139
+!MESSAGE 08:56:39.957 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 08:58:49.668
+!MESSAGE 08:58:49.666 [pool-3-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-16 09:05:08.088
+!MESSAGE 09:05:07.700 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/6.2_introducao_a_poo_membros_estaticos/src/util/Calculator.java
