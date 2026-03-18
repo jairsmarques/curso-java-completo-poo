@@ -9044,3 +9044,240 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:42:33.630
 !MESSAGE 09:42:33.630 [pool-3-thread-29] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:41.767
+!MESSAGE 09:50:41.765 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 131
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:41.957
+!MESSAGE 09:50:41.855 [pool-3-thread-30] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:43.238
+!MESSAGE 09:50:42.460 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:43.240
+!MESSAGE 09:50:42.489 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java done in 29ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:43.485
+!MESSAGE 09:50:43.483 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:43.831
+!MESSAGE 09:50:43.829 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:43.987
+!MESSAGE 09:50:43.986 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 136
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:44.513
+!MESSAGE 09:50:44.512 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:44.522
+!MESSAGE 09:50:44.522 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:44.873
+!MESSAGE 09:50:44.871 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:44.981
+!MESSAGE 09:50:44.979 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 138
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:45.159
+!MESSAGE 09:50:45.156 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:45.660
+!MESSAGE 09:50:45.660 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:45.669
+!MESSAGE 09:50:45.668 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:46.664
+!MESSAGE 09:50:46.660 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:46.900
+!MESSAGE 09:50:46.893 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:47.020
+!MESSAGE 09:50:47.015 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:47.351
+!MESSAGE 09:50:47.349 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 143
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:47.462
+!MESSAGE 09:50:47.459 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:47.668
+!MESSAGE 09:50:47.636 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:47.807
+!MESSAGE 09:50:47.804 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:48.310
+!MESSAGE 09:50:48.308 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:48.333
+!MESSAGE 09:50:48.331 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:48.847
+!MESSAGE 09:50:48.845 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:49.236
+!MESSAGE 09:50:49.235 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 148
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:49.743
+!MESSAGE 09:50:49.741 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:49.767
+!MESSAGE 09:50:49.767 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:50.025
+!MESSAGE 09:50:50.022 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:50.253
+!MESSAGE 09:50:50.252 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 150
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:50.760
+!MESSAGE 09:50:50.759 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:50.771
+!MESSAGE 09:50:50.770 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:54.412
+!MESSAGE 09:50:54.411 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 151
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:54.720
+!MESSAGE 09:50:54.717 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 152
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:55.223
+!MESSAGE 09:50:55.222 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:50:55.245
+!MESSAGE 09:50:55.244 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:01.533
+!MESSAGE 09:51:01.532 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:01.661
+!MESSAGE 09:51:01.660 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:02.019
+!MESSAGE 09:51:02.017 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 155
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:02.521
+!MESSAGE 09:51:02.521 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:02.528
+!MESSAGE 09:51:02.527 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:04.735
+!MESSAGE 09:51:04.733 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:05.094
+!MESSAGE 09:51:05.092 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 157
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:05.411
+!MESSAGE 09:51:05.410 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 158
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:05.741
+!MESSAGE 09:51:05.739 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:06.244
+!MESSAGE 09:51:06.243 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:06.258
+!MESSAGE 09:51:06.258 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:09.452
+!MESSAGE 09:51:09.451 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:09.954
+!MESSAGE 09:51:09.954 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:09.967
+!MESSAGE 09:51:09.967 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:12.818
+!MESSAGE 09:51:12.762 [pool-3-thread-30] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:12.822
+!MESSAGE 09:51:12.821 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:51:12.951
+!MESSAGE 09:51:12.949 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/bin/entities/Product.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:21.838
+!MESSAGE 09:52:19.565 [pool-3-thread-30] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:21.840
+!MESSAGE 09:52:21.838 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:21.919
+!MESSAGE 09:52:21.845 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 8ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:22.357
+!MESSAGE 09:52:22.352 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:22.403
+!MESSAGE 09:52:22.403 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:23.108
+!MESSAGE 09:52:22.873 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:23.610
+!MESSAGE 09:52:23.609 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:23.619
+!MESSAGE 09:52:23.618 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:26.396
+!MESSAGE 09:52:26.395 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:26.401
+!MESSAGE 09:52:26.400 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:26.905
+!MESSAGE 09:52:26.893 [pool-3-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:26.920
+!MESSAGE 09:52:26.919 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:26.924
+!MESSAGE 09:52:26.924 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java done in 20ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:28.732
+!MESSAGE 09:52:28.730 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 47
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:29.175
+!MESSAGE 09:52:29.155 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 48
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:29.679
+!MESSAGE 09:52:29.675 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:29.700
+!MESSAGE 09:52:29.699 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:29.773
+!MESSAGE 09:52:29.771 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:29.931
+!MESSAGE 09:52:29.930 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 50
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:30.433
+!MESSAGE 09:52:30.423 [pool-3-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:30.463
+!MESSAGE 09:52:30.462 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:33.484
+!MESSAGE 09:52:33.482 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:33.991
+!MESSAGE 09:52:33.989 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:34.020
+!MESSAGE 09:52:34.019 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:34.169
+!MESSAGE 09:52:34.163 [pool-3-thread-32] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:52:35.168
+!MESSAGE 09:52:34.174 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-18 09:53:32.663
+!MESSAGE 09:53:28.991 [pool-3-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/7.0_construtores_palavra_this_sobrecarga_encapsulamento/src/entities/Product.java
