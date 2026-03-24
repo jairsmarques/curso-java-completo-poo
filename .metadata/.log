@@ -10236,3 +10236,153 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:30:06.779
 !MESSAGE 09:30:06.745 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/8.2_comportamento_de_memoria_arrays_lista_desafio_vetores_pensionato/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:15.182
+!MESSAGE 09:36:15.181 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:15.215
+!MESSAGE 09:36:15.215 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:39.400
+!MESSAGE 09:36:39.398 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:39.903
+!MESSAGE 09:36:39.902 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:39.914
+!MESSAGE 09:36:39.906 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:39.922
+!MESSAGE 09:36:39.915 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:39.923
+!MESSAGE 09:36:39.922 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:39.924
+!MESSAGE 09:36:39.922 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:40.424
+!MESSAGE 09:36:40.423 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:40.447
+!MESSAGE 09:36:40.446 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.223
+!MESSAGE 09:36:46.222 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.224
+!MESSAGE 09:36:46.223 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 5
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.226
+!MESSAGE 09:36:46.223 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.227
+!MESSAGE 09:36:46.224 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.228
+!MESSAGE 09:36:46.224 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 6
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.229
+!MESSAGE 09:36:46.224 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.233
+!MESSAGE 09:36:46.231 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 10
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.735
+!MESSAGE 09:36:46.570 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:46.793
+!MESSAGE 09:36:46.792 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:48.523
+!MESSAGE 09:36:48.521 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:49.028
+!MESSAGE 09:36:49.027 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:49.072
+!MESSAGE 09:36:49.072 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:52.628
+!MESSAGE 09:36:52.627 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:53.129
+!MESSAGE 09:36:53.128 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:53.151
+!MESSAGE 09:36:53.151 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:53.843
+!MESSAGE 09:36:53.843 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:54.348
+!MESSAGE 09:36:54.347 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:54.402
+!MESSAGE 09:36:54.401 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:57.618
+!MESSAGE 09:36:57.618 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:58.124
+!MESSAGE 09:36:58.122 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:36:58.166
+!MESSAGE 09:36:58.166 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:11.963
+!MESSAGE 09:37:11.962 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:12.466
+!MESSAGE 09:37:12.465 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:12.505
+!MESSAGE 09:37:12.504 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:14.643
+!MESSAGE 09:37:14.642 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:15.147
+!MESSAGE 09:37:15.146 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:15.198
+!MESSAGE 09:37:15.198 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:16.923
+!MESSAGE 09:37:16.922 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:17.428
+!MESSAGE 09:37:17.426 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:17.479
+!MESSAGE 09:37:17.478 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:20.778
+!MESSAGE 09:37:20.778 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:21.284
+!MESSAGE 09:37:21.283 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:21.322
+!MESSAGE 09:37:21.321 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:22.464
+!MESSAGE 09:37:22.462 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:22.467
+!MESSAGE 09:37:22.466 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 26
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:22.471
+!MESSAGE 09:37:22.470 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 28
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:22.974
+!MESSAGE 09:37:22.974 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:22.992
+!MESSAGE 09:37:22.992 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:37:23.757
+!MESSAGE 09:37:23.748 [pool-3-thread-19] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-24 09:41:54.731
+!MESSAGE 09:37:24.245 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/curso-java-completo-poo/8.3_comportamento_de_memoria_arrays_lista_aula_listas/bin/application/Program.class]
